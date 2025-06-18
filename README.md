@@ -112,9 +112,9 @@ Sou apaixonado por resolver problemas por meio da tecnologia e busco constanteme
 
 ### 📫 Onde me encontrar
 
-<img width="48" height="200" src="https://img.icons8.com/fluency/48/linkedin.png" alt="https://www.linkedin.com/in/jorge-gabriel-579605228"/>
-<img width="64" height="200" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="https://github.com/Jorge-Gabriel97"/>
-<img width="48" height="200" src="https://img.icons8.com/color/48/gmail-new.png" alt="jg3043505@gmail.com"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="https://www.linkedin.com/in/jorge-gabriel-579605228"/>
+<img width="64" height="48" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="https://github.com/Jorge-Gabriel97"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="jg3043505@gmail.com"/>
 
 ---
 
