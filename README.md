@@ -97,14 +97,14 @@ Sou apaixonado por resolver problemas por meio da tecnologia e busco constanteme
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Jorge-Gabriel97&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?Jorge-Gabriel97-github&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
 
@@ -112,8 +112,8 @@ Sou apaixonado por resolver problemas por meio da tecnologia e busco constanteme
 
 ### 📫 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/jorge-gabriel-579605228/)
-- [GitHub](https://github.com/Jorge-Gabriel97)
+- (https://www.linkedin.com/in/jorge-gabriel-579605228)
+- (https://github.com/Jorge-Gabriel97)
 - Email: jg3043505@gmail.com
 
 ---
