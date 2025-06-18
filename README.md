@@ -112,9 +112,9 @@ Sou apaixonado por resolver problemas por meio da tecnologia e busco constanteme
 
 ### 📫 Onde me encontrar
 
-(https://www.linkedin.com/in/jorge-gabriel-579605228)
-(https://github.com/Jorge-Gabriel97)
-Email: jg3043505@gmail.com
+https://www.linkedin.com/in/jorge-gabriel-579605228
+https://github.com/Jorge-Gabriel97
+jg3043505@gmail.com
 
 ---
 
