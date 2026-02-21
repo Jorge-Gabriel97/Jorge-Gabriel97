@@ -36,10 +36,18 @@ Sou apaixonado por resolver problemas por meio da tecnologia e busco constanteme
 
 ---
 
-### 📊 Estatísticas
+### 📁 Projetos em Destaque
 
-<img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Jorge-Gabriel97&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-<img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Gabriel97&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
+- 🕒 **[Manager Hours API](#)**: API RESTful desenvolvida em Java com Spring Boot para gerenciamento completo de agendamentos e controle de horários.
+- 🏥 **[Casa de Apoio Deus é Fiel](#)**: Desenvolvimento de sistema digital focado no uso de tecnologias na saúde e assistência social.
+- 💻 **[Portfólio Pessoal](#)**: Interface dinâmica e responsiva construída com React para apresentação de projetos.
+
+---
+
+### 📫 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/jorge-gabriel-579605228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="jg3043505@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br clear="both"/>
 
