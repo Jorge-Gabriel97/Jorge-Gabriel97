@@ -23,25 +23,24 @@ Sou apaixonado por resolver problemas por meio da tecnologia e busco constanteme
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 
-<br/><br/>
+<br clear="both"/><br/>
 
 ---
 
 ### 🚀 Em constante evolução
 
-- 🎯 Buscando oportunidades como **desenvolvedor fullstack júnior**  
-- 📚 Estudando arquitetura de software, testes automatizados e boas práticas com Java + Spring Boot e front-end moderno (HTML, CSS, JavaScript, React)  
-- 💼 Interesse por áreas como APIs REST, testes com JUnit, bancos de dados relacionais e desenvolvimento de interfaces responsivas  
-- 🌱 Motivado a aplicar meus conhecimentos para gerar impacto real através da tecnologia  
+- 🎯 Buscando oportunidades como **desenvolvedor fullstack júnior**
+- 📚 Estudando arquitetura de software, testes automatizados e boas práticas com Java + Spring Boot e front-end moderno (HTML, CSS, JavaScript, React)
+- 💼 Interesse por áreas como APIs REST, testes com JUnit, bancos de dados relacionais e desenvolvimento de interfaces responsivas
+- 🌱 Motivado a aplicar meus conhecimentos para gerar impacto real através da tecnologia
 
 ---
 
 ### 📊 Estatísticas
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Jorge-Gabriel97&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Gabriel97&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
-</p>
+<img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Jorge-Gabriel97&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Gabriel97&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
+
 <br clear="both"/>
 
 ---
