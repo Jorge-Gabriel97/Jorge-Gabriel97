@@ -1,10 +1,15 @@
 # 👨🏻‍💻 Jorge Gabriel
+### Full Stack Developer · Java · Spring Boot · React · TypeScript
 
-**`Desenvolvedor Fullstack Java`**
+Desenvolvedor Full Stack em fase final de graduação em Análise e 
+Desenvolvimento de Sistemas (UNINTER). Tenho quase 2 anos de experiência 
+prática como Analista de Suporte Técnico em sistemas críticos de produção 
+— trabalhando com diagnóstico de falhas em APIs, interpretação de XML e 
+integração entre sistemas.
 
-Olá! Me chamo Jorge Gabriel, tenho 28 anos e sou natural do Brasil. Trabalhei no setor de Suporte Técnico da Central de Serviços Online (CSO), atuando em uma API do Detran. Sou graduando em Análise e Desenvolvimento de Sistemas e estou em transição de carreira com foco em **desenvolvimento fullstack**, com ênfase em back-end Java e front-end moderno.  
-
-Sou apaixonado por resolver problemas por meio da tecnologia e busco constantemente me aprimorar em boas práticas de programação, testes de software, qualidade de código e arquitetura limpa. Estou construindo meu portfólio com projetos que refletem meu crescimento técnico e visão profissional, e sigo comprometido com a minha evolução como desenvolvedor.
+Construo aplicações completas com Java + Spring Boot no back-end e 
+React + TypeScript no front-end, aplicando arquitetura MVC, API REST 
+e boas práticas desde o primeiro commit.
 
 ---
 
@@ -27,6 +32,24 @@ Sou apaixonado por resolver problemas por meio da tecnologia e busco constanteme
 
 ---
 
+---
+
+### 📁 Projetos em Destaque
+
+- 📦 **[ControllerEstoque](https://github.com/Jorge-Gabriel97/ControllerEstoque)**  
+  Sistema de gestão de inventário com Spring Boot, MySQL, arquitetura MVC e Bootstrap 5
+
+- 💻 **[Portfólio Profissional](SUA_URL_AQUI)**  
+  Landing page em React com design mobile-first, SEO otimizado e integração com APIs
+
+- 🕒 **[Manager Hours API](URL_DO_REPO)**  
+  API RESTful em Java + Spring Boot para gerenciamento de agendamentos e controle de horários
+
+- 🏥 **[Casa de Apoio Deus é Fiel](URL_DO_REPO)**  
+  Sistema digital para gestão em saúde e assistência social
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -38,26 +61,13 @@ Sou apaixonado por resolver problemas por meio da tecnologia e busco constanteme
 </p>
 
 --- 
-
-
-
 ---
 
-### 🚀 Em constante evolução
+### 🚀 Atualmente
 
-- 🎯 Buscando oportunidades como **desenvolvedor fullstack júnior**
-- 📚 Estudando arquitetura de software, testes automatizados e boas práticas com Java + Spring Boot e front-end moderno (HTML, CSS, JavaScript, React)
-- 💼 Interesse por áreas como APIs REST, testes com JUnit, bancos de dados relacionais e desenvolvimento de interfaces responsivas
-- 🌱 Motivado a aplicar meus conhecimentos para gerar impacto real através da tecnologia
-
----
-
-### 📁 Projetos em Destaque
-
-- 🕒 **[Manager Hours API](#)**: API RESTful desenvolvida em Java com Spring Boot para gerenciamento completo de agendamentos e controle de horários.
-- 🏥 **[Casa de Apoio Deus é Fiel](#)**: Desenvolvimento de sistema digital focado no uso de tecnologias na saúde e assistência social.
-- 📦 **[ControllerEstoque](#)**: Sistema completo de gestão de inventário web utilizando Padrão MVC e Bootstrap 5.
-- 💻 **[Portfólio Pessoal](#)**: Interface dinâmica e responsiva construída com React para apresentação de projetos.
+- 🎯 Buscando vaga de **desenvolvedor júnior** ou **estágio em desenvolvimento**
+- 📚 Aprofundando em: testes com JUnit, Docker, CI/CD e microsserviços com Spring
+- 🌐 Disponível para remoto ou presencial · Salvador/BA
 
 ---
 
